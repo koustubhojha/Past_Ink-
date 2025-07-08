@@ -62,5 +62,3 @@ Extracting text from scanned documents
 Archiving old records
 
 OCR for academic or research papers
-
-Let me know if you want this description converted into a full README.md with badges, installation instructions, and screenshots.
